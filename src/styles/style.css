@@ -1,0 +1,12 @@
+       .button-one {
+              -fx-background-color: #e67e22;
+          }
+       .button-two {
+           -fx-background-color: #2980b9;
+       }
+       .button-three {
+           -fx-background-color: #95a5a6;
+       }
+       .button-four{
+           -fx-background-color: #34495e;
+       }
